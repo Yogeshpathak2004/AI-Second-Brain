@@ -1,0 +1,33 @@
+# LLM / GenAI
+ollama
+requests
+
+# Embeddings
+sentence-transformers
+
+# Vector Database
+qdrant-client
+
+# Knowledge Graph
+neo4j
+
+# Machine Learning
+scikit-Learn
+numpy
+pandas
+
+# Deep Learning / Reinforcement Learning
+torch
+stable-baselines3
+
+# Backend / API
+fastapi
+uvicorn
+pydantic
+python-dotenv
+
+# PostgreSQL
+psycopg2-binary
+
+# Utilities
+httpx
